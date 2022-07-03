@@ -1,0 +1,1 @@
+delete from invoice_type;
